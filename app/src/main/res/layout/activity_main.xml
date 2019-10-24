@@ -11,7 +11,7 @@
         android:id="@+id/ivPlayStop"
         android:layout_width="250dp"
         android:layout_height="250dp"
-        android:layout_margin="25"
+        android:layout_margin="25dp"
         android:layout_weight="1"
         android:clickable="true"
         app:srcCompat="@mipmap/play" />
